@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="assertj-core-3.23.1">
+  <library name="assertj-core-3.24.2">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../assertj-core-3.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../assertj-core-3.24.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
